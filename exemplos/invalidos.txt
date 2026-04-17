@@ -1,0 +1,12 @@
+
+# Exemplos inválidos
+
+
+SELECT FROM clientes;
+SELECT nome clientes;
+INSERT clientes VALUES (1, 'Lucas');
+UPDATE clientes nome = 'Ana';
+DELETE clientes;
+SELECT nome FROM clientes
+INSERT INTO clientes VALUES (1, 'Lucas);
+SELECT nome @ FROM clientes;

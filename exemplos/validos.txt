@@ -1,0 +1,12 @@
+
+# Exemplos válidos
+
+
+SELECT nome FROM clientes;
+SELECT nome, idade FROM clientes;
+SELECT * FROM clientes;
+INSERT INTO clientes VALUES (1, 'Lucas');
+INSERT INTO usuarios VALUES (10, 'Ana', email);
+UPDATE clientes SET nome = 'Ana';
+UPDATE clientes SET nome = 'Ana', idade = 20;
+DELETE FROM clientes;
